@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "93425041309",
+    "project_id": "androidchatassignmenttest",
+    "storage_bucket": "androidchatassignmenttest.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:93425041309:android:89cce03ed26fdc3699b974",
+        "android_client_info": {
+          "package_name": "com.javainstitute.androidcodingexamtest01"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "93425041309-4kash9rncipukc9n712l2b5b66b2cbrh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDB3uN_gQv5e7oqMWU98yWTprxEVp3fOKk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "93425041309-4kash9rncipukc9n712l2b5b66b2cbrh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
